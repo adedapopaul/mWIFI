@@ -1,0 +1,1 @@
+MicroPython project to create a WIFI Manger for ESP8266/32. 
